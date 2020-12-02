@@ -1,8 +1,21 @@
-
 {
-  "ironId":"e1d8ff01",
+	"iron": "hado dyal iron li taht",
+	"ironId": "e1d8ff01",
 
-  "interId": "ca-app-pub-3940256099942544/1033173712",
-  "bannerId": "ca-app-pub-3940256099942544/6300978111",
+	"admob": "hado dyal admob li taht",
 
+	"AdmobAppId": "ca-app-pub-3940256099942544/1033173712",
+	"interId": "ca-app-pub-3940256099942544/1033173712",
+	"bannerId": "ca-app-pub-3940256099942544/6300978111",
+	"RewardId": "ca-app-pub-3940256099942544/6300978111",
+
+	"facebook": "hado dyal facebook li taht",
+	"FanInter": "ca-app-pub-3940256099942544/1033173712",
+	"FanBanner": "ca-app-pub-3940256099942544/6300978111",
+	"FanReward": "ca-app-pub-3940256099942544/6300978111",
+	"unity": "hado dyal unity li taht",
+	"UnityAppId": "ca-app-pub-3940256099942544/1033173712",
+	"UnityInter": "ca-app-pub-3940256099942544/1033173712",
+	"Unitybanner": "ca-app-pub-3940256099942544/6300978111",
+	"unityreward": "ca-app-pub-3940256099942544/6300978111"
 }
