@@ -2,6 +2,10 @@
 	"iron": "badal li ltaht ila bghiti iron",
 	
 	"ironId": "85460dcd",
+	"ironBanner": "DefaultBanner",
+	"ironInter": "DefaultInterstitial",
+	"ironReward": "DefaultRewardedVideo",
+
 
 	"admob": "hado dyal admob li taht",
 
