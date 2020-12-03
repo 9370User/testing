@@ -10,9 +10,9 @@
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "",
-	"interId": "NULL",
-	"bannerId": "NULL",
-	"RewardId": "NULL",
+	"interId": "0000",
+	"bannerId": "0000",
+	"RewardId": "0000",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
