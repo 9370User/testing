@@ -10,19 +10,19 @@
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "",
-	"interId": "",
-	"bannerId": "",
-	"RewardId": "",
+	"interId": "ca-app-pub-3940256099942544/1033173712",
+	"bannerId": "ca-app-pub-3940256099942544/6300978111",
+	"RewardId": "ca-app-pub-3940256099942544/5224354917",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "3835083023192450_3835084176525668",
-	"FanBanner": "3835083023192450_3835085753192177",
-	"FanReward": "3835083023192450_3835086223192130",
+	"FanInter": "366896547947742_366897261281004",
+	"FanBanner": "366896547947742_366897524614311",
+	"FanReward": "366896547947742_366897641280966",
 	
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "3908047",
+	"UnityAppId": "3462830",
 	"UnityInter": "video",
 	"Unitybanner": "banner",
 	"unityreward": "rewardedVideo"
