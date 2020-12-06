@@ -1,7 +1,8 @@
+
 	{
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "",
+	"ironId": "e1d8ff01",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
@@ -16,13 +17,13 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "",
-	"FanBanner": "",
-	"FanReward": "",
+	"FanInter": "1050820212051817_1050823905384781",
+	"FanBanner": "1050820212051817_1050824188718086",
+	"FanReward": "1050820212051817_1061533637647141",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "",
+	"UnityAppId": "3462830",
 	"UnityInter": "video",
 	"Unitybanner": "banner",
 	"unityreward": "rewardedVideo"
