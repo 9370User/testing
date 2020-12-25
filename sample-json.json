@@ -4,8 +4,8 @@
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "1",
-		"adsorder explication ": "0 automatique , 1 admob lewel,2fan lewel,3 unity lewel",
-		"order": "1",
+		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
+		"specificationAds": "1",
 
 	"iron": "badal li ltaht ila bghiti iron",
 	
