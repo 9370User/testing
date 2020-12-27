@@ -1,11 +1,11 @@
 
 	{
-"version": "test v5",
+"version": "test v6",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "0",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
-		"specificationAds": "3",
+		"specificationAds": "0",
 
 	"iron": "badal li ltaht ila bghiti iron",
 	
@@ -17,10 +17,10 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "ca-app-pub-3940256099942544/1033173712",
-	"bannerId": "ca-app-pub-3940256099942544/6300978111",
-	"rewardadmob": "ca-app-pub-3940256099942544/5224354917",
+	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713000",
+	"interId": "ca-app-pub-3940256099942544/1033173712000",
+	"bannerId": "ca-app-pub-3940256099942544/6300978111000",
+	"rewardadmob": "ca-app-pub-3940256099942544/5224354917000",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
